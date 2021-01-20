@@ -1,0 +1,49 @@
+nav {
+    height: 50px;
+    background-color: #9E195E;
+  }
+  .nav_button {
+    display: inline-block;
+    padding: 15px;
+    color:#D5FFB1;
+  }
+  .left_content {
+    height: 1000px;
+    float: left;
+    background-color:#FFA5D4;
+    width: 20%;
+    text-align: center;
+  }
+  .right_content {
+    height: 1000px;
+    float: left;
+    background-color: #8BB468;
+    width: 80%;
+    text-align: center;
+  }
+  .left_above {
+      padding-top: 35px;
+  }
+  img.left_content {
+    padding-top: 50px;
+    height: 500px;
+    width: 500px;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  img.right_content {
+      height: 600px;
+      width: 500px;
+  }
+  li {
+      font-size:18px;
+  }
+  h1 {
+      font-size: 52px;
+      font-family: 'Press Start 2P', cursive;
+  }
+  h2 {
+      font-size: 32px;
+      font-family: 'Press Start 2P', cursive;
+  }
